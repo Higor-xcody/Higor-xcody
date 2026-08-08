@@ -21,11 +21,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="center">👩‍💻  Sobre mim:</h3>
 
 ###
 
-<p data-importer="text" align="center">💻 Estudante de Programação | Desenvolvedor em formação | Tecnologia & Educação<br><br>Sou estudante de programação e apaixonado por transformar ideias em projetos reais. Gosto de explorar diferentes áreas da tecnologia, principalmente desenvolvimento de aplicações, automação, IoT e educação tecnológica.<br><br>🚀 O que eu faço<br>📱 Desenvolvimento de aplicações com FlutterFlow<br>🗄️ Banco de dados e backend com Supabase<br>🤖 Projetos de Arduino, ESP32 e eletrônica<br>🌐 Desenvolvimento de sistemas e aplicações web<br>🧩 Exploração de Python, lógica de programação e algoritmos<br>🎓 Criação de projetos e atividades voltadas para Educação Digital<br>🎨 Desenvolvimento de interfaces e experiências digitais</p>
+<p data-importer="text" align="left">💻 Estudante de Programação | Desenvolvedor em formação | Tecnologia & Educação<br><br>Sou estudante de programação e apaixonado por transformar ideias em projetos reais. Gosto de explorar diferentes áreas da tecnologia, principalmente desenvolvimento de aplicações, automação, IoT e educação tecnológica.<br><br>🚀 O que eu faço:<br>📱 Desenvolvimento de aplicações com FlutterFlow<br>🗄️ Banco de dados e backend com Supabase<br>🤖 Projetos de Arduino, ESP32 e eletrônica<br>🌐 Desenvolvimento de sistemas e aplicações web<br>🧩 Exploração de Python, lógica de programação e algoritmos<br>🎓 Criação de projetos e atividades voltadas para Educação Digital<br>🎨 Desenvolvimento de interfaces e experiências digitais</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">🛠 Language and tools</h3>
+<h3 data-importer="text" align="center">🛠 Linguagem e ferramentas:</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">🔥   My Stats :</h3>
+<h3 data-importer="text" align="center">🔥   Minhas estatísticas:</h3>
 
 ###
 
@@ -73,6 +73,10 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Higor-xcody/Higor-xcody/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Higor-xcody/Higor-xcody/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Higor-xcody/Higor-xcody/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Higor-xcody/Higor-xcody/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
