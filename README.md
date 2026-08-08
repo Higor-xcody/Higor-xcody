@@ -71,8 +71,6 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/Higor-xcody/Higor-xcody/snake-output/snake.svg" alt="Snake animation" />
 
 ###
